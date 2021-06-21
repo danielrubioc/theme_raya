@@ -1,0 +1,67 @@
+a {
+    color: #4a4a49;
+    text-decoration: underline;
+    font-weight: bold;
+    text-decoration: none;
+}
+main {
+    margin-top: 7.5rem!important;
+}
+
+.the-article__title {
+    font-size: 2.5625em;
+    font-weight: 400;
+    line-height: 1.2;
+    margin-bottom: .9756em;
+    margin-top: .3658em;
+}
+
+.the-article__text p{
+    font-size: 18px;
+    font-size: 1.125rem; 
+    line-height: 1.5; 
+    color:#4a4a49; 
+}
+.the-article__text img{
+    margin-bottom: 3.75em;
+}
+
+a.category-ink { 
+    font-size: 13px;
+    text-transform: uppercase;
+    padding: 3px 10px;
+    font-weight: 600;
+    border-radius: 2px;
+    margin-right: 15px;
+    color: #fff;
+    background-color: #212631;
+    -webkit-transition: .2s opacity;
+    transition: .2s opacity;
+}
+
+a.category-ink:hover, a.category-ink:focus{ 
+    color: #fff;
+    opacity: .9; 
+}
+.card-title{
+    margin-top: .5rem;
+}
+
+.content-news{
+    -webkit-box-shadow: 0 0 0.9375rem rgb(0 0 0 / 20%);
+    box-shadow: 0 0 0.9375rem rgb(0 0 0 / 20%);
+}
+ 
+.misha_loadmore {
+    padding: 9px 45px;
+    border: none;
+    background-color: #212631;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff;
+    text-align: center;
+}
+
+p.card-text.text-end a {
+    padding: 10px 25px;
+}
